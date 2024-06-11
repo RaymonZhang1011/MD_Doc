@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Instance Name"
+                 start-page="template.md">
+
+    <toc-element topic="template.md">
+        <toc-element topic="M5.md"/>
+    </toc-element>
+    <toc-element topic="M6.md"/>
+    <toc-element topic="M6待办.md"/>
+    <toc-element topic="伊斯坦布尔.md"/>
+</instance-profile>
