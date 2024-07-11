@@ -6,6 +6,7 @@
                  name="Instance Name"
                  start-page="template.md">
 
+    <toc-element topic="M7.md"/>
     <toc-element topic="template.md">
         <toc-element topic="M5.md"/>
     </toc-element>
