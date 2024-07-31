@@ -6,11 +6,12 @@
                  name="Instance Name"
                  start-page="template.md">
 
+    <toc-element topic="M8-TODO.md"/>
     <toc-element topic="M7.md"/>
     <toc-element topic="template.md">
         <toc-element topic="M5.md"/>
     </toc-element>
     <toc-element topic="M6.md"/>
     <toc-element topic="M6待办.md"/>
-    <toc-element topic="土耳其.md"/>
+    <toc-element topic="2024-10土耳其.md"/>
 </instance-profile>
